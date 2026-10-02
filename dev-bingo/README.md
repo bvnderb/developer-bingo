@@ -1,44 +1,30 @@
-# dev-bingo
+# Developer Bingo 🎉
 
-This template should help get you started developing with Vue 3 in Vite.
+A bingo game for developers, built with Vue 3.
 
-## Recommended IDE Setup
+Every developer knows the feeling: the client wants "just one small change", someone pushes to production on a Friday, and git blame points straight back at you. This bingo card celebrates the everyday chaos of software development.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## How to play
 
-## Recommended Browser Setup
+- Click a cell when it happens to you during your workday
+- The FREE cell in the middle is always marked
+- Get a full row, column or diagonal to win
+- Click **Nieuw spel** to shuffle the board and start over
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Tech
 
-## Customize configuration
+- Vue 3 (Composition API)
+- Vite
+- Vanilla CSS
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Run locally
 
-## Project Setup
-
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## About
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Built by Brent Vander Bruggen as a Vue portfolio project.
+[LinkedIn](https://linkedin.com/in/brent-vander-bruggen)
